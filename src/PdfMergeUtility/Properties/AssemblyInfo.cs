@@ -1,10 +1,11 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pdf Merge Utility")]
+[assembly: AssemblyTitle("PdfMergeUtility")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c4d1c98d-6fc9-4acd-8051-899b4ace06d8")]
+[assembly: Guid("4d6e03be-548a-422c-82c2-273746f5ddf0")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfMerge", "PdfMergeUtility\PdfMerge.csproj", "{C4D1C98D-6FC9-4ACD-8051-899B4ACE06D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfMergeUtility", "PdfMergeUtility\PdfMergeUtility.csproj", "{4D6E03BE-548A-422C-82C2-273746F5DDF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4D1C98D-6FC9-4ACD-8051-899B4ACE06D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4D1C98D-6FC9-4ACD-8051-899B4ACE06D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4D1C98D-6FC9-4ACD-8051-899B4ACE06D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4D1C98D-6FC9-4ACD-8051-899B4ACE06D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6E03BE-548A-422C-82C2-273746F5DDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6E03BE-548A-422C-82C2-273746F5DDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6E03BE-548A-422C-82C2-273746F5DDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6E03BE-548A-422C-82C2-273746F5DDF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D318B275-4B79-471D-BECE-0F354214CC82}
+		SolutionGuid = {377FC3DD-517C-4E13-9412-3567B2C95B0A}
 	EndGlobalSection
 EndGlobal
